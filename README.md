@@ -37,7 +37,7 @@ To run any solution:
    ```
 3. Navigate to the folder for the desired day:
    ```bash
-    cd day-1
+    cd day1
    ```
 4. Run the JavaScript file using Node.js:
    ```bash
