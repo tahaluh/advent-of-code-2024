@@ -32,7 +32,7 @@ To run any solution:
 1. Ensure you have [Node.js](https://nodejs.org/) installed.
 2. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/advent-of-code-2024.git
+   git clone https://github.com/tahaluh/advent-of-code-2024.git
    cd advent-of-code-2024
    ```
 3. Navigate to the folder for the desired day:
