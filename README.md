@@ -41,7 +41,7 @@ To run any solution:
    ```
 4. Run the JavaScript file using Node.js:
    ```bash
-    node index.js
+    node part1.js
    ```
 
 ## Contributions
