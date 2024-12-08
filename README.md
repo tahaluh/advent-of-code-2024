@@ -14,12 +14,16 @@ I aim to showcase creative and efficient solutions while leveraging JavaScript's
 
 ## Progress
 
-| Day | Challenge Name                         | Status         |
-| --- | -------------------------------------- | -------------- |
-| 1   | [Historian Hysteria](./day1/README.md) | ✅ Check       |
-| 2   | [_Coming Soon_](./day2/README.md)      | ⌛ In Progress |
-| ... | ...                                    | ...            |
-| 25  | [_To Be Revealed_](./day25/README.md)  | 🚀 Pending     |
+| Day | Challenge Name                            | Status         |
+| --- | ----------------------------------------- | -------------- |
+| 1   | [Historian Hysteria](./day1/README.md)    | ✅ Check       |
+| 2   | [Red-Nosed Reports](./day2/README.md)     | ✅ Check       |
+| 3   | [_Coming Soon_](./README.md)              | ⌛ In Progress |
+| ... | ...                                       | ...            |
+| 7   | [_Coming Soon_](./README.md)              | ⌛ In Progress |
+| 8   | [Resonant Collinearity](./day8/README.md) | ✅ Check       |
+| ... | ...                                       | ...            |
+| 25  | [_To Be Revealed_](./day25/README.md)     | 🚀 Pending     |
 
 Stay tuned as I unlock and solve more puzzles daily!
 
