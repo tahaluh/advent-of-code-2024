@@ -20,8 +20,8 @@ I aim to showcase creative and efficient solutions while leveraging JavaScript's
 | 2   | [Red-Nosed Reports](./day2/README.md)     | ✅ Check       |
 | 3   | [Mull It Over](./day3/README.md)          | ✅ Check       |
 | 4   | [Ceres Search](./day4/README.md)          | ✅ Check       |
-| 5   | [_Coming Soon_](./README.md)              | ⌛ In Progress |
-| ... | ...                                       | ...            |
+| 5   | [Print Queue](./day5/README.md)           | ✅ Check       |
+| 6   | [_Coming Soon_](./README.md)              | ⌛ In Progress |
 | 7   | [_Coming Soon_](./README.md)              | ⌛ In Progress |
 | 8   | [Resonant Collinearity](./day8/README.md) | ✅ Check       |
 | ... | ...                                       | ...            |
