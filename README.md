@@ -22,7 +22,7 @@ I aim to showcase creative and efficient solutions while leveraging JavaScript's
 | 4   | [Ceres Search](./day4/README.md)          | ✅ Check       |
 | 5   | [Print Queue](./day5/README.md)           | ✅ Check       |
 | 6   | [Guard Gallivant](./day6/README.md)       | ✅ Check       |
-| 7   | [_Coming Soon_](./README.md)              | ⌛ In Progress |
+| 7   | [Bridge Repair](./day7/README.md)         | ✅ Check       |
 | 8   | [Resonant Collinearity](./day8/README.md) | ✅ Check       |
 | 9   | [_Coming Soon_](./README.md)              | ⌛ In Progress |
 | ... | ...                                       | ...            |
